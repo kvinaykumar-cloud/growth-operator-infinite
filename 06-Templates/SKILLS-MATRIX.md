@@ -39,10 +39,10 @@ I have applied the skill to a real business problem and can explain the decision
 | Skill | Level | Evidence | Notes |
 |---|---|---|---|
 | Customer Research | L0 | — | |
-| ICP | L0 | — | |
-| Positioning | L0 | — | |
+| ICP | L1 | Day 1 Daily Log; Day 1 Case Study | Growth foundation |
+| Positioning | L1 | Day 1 Daily Log; Day 1 Case Study | Initial positioning framework |
 | Offer | L0 | — | |
-| Funnel | L0 | — | |
+| Funnel | L1 | Day 1 Daily Log; Day 1 Case Study | Basic acquisition funnel |
 | Conversion | L0 | — | |
 
 # PERFORMANCE MARKETING
@@ -59,9 +59,9 @@ I have applied the skill to a real business problem and can explain the decision
 
 | Skill | Level | Evidence | Notes |
 |---|---|---|---|
-| Excel / Sheets | L0 | — | |
+| Excel / Sheets | L1 | Master Tracker | Tracker creation and organization |
 | GA4 | L0 | — | |
-| Marketing Metrics | L0 | — | |
+| Marketing Metrics | L1 | Day 1 Case Study | Introduced business metrics |
 | SQL | L0 | — | |
 | BI | L0 | — | |
 | Attribution | L0 | — | |
@@ -80,7 +80,7 @@ I have applied the skill to a real business problem and can explain the decision
 
 | Skill | Level | Evidence | Notes |
 |---|---|---|---|
-| Workflows | L0 | — | |
+| Workflows | L1 | Master Tracker; Day 1 Daily Log | Basic workflow/system thinking |
 | Integrations | L0 | — | |
 | Lead Automation | L0 | — | |
 
@@ -88,8 +88,8 @@ I have applied the skill to a real business problem and can explain the decision
 
 | Skill | Level | Evidence | Notes |
 |---|---|---|---|
-| Research | L0 | — | |
-| Content | L0 | — | |
+| Research | L1 | AI Usage Log; Day 1 Daily Log | AI-assisted research and brainstorming |
+| Content | L1 | AI Usage Log; Day 1 Daily Log | AI-assisted documentation and content structuring |
 | Analytics | L0 | — | |
 | Automation | L0 | — | |
 | AI Agents | L0 | — | |
